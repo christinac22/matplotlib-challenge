@@ -1,0 +1,4 @@
+Observations:
+1. Looking at the pie chart, the distribution of female versus male mice is almost 50/50.
+2. The correlation between mouse weight and tumor volume is 0.84. This shows a positive correlation that mouse weight increases when tumor volume increases.
+3. Looking at the line graph, tumor volume appears to go down as timepoint increases.
